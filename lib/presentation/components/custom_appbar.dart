@@ -31,7 +31,7 @@ class CustomAppBar extends StatelessWidget {
                           fontSize: scaleHeight(15, context),
                           color: black1,
                           fontWeight: FontWeight.w300,
-                          height: lineHeight(22.4, 12))),
+                          height: lineHeight(22.4, 15))),
 
                           SizedBox(height: scaleHeight(0.2, context),),
                           
@@ -58,7 +58,9 @@ class CustomAppBar extends StatelessWidget {
               )),
 
               IconButton(
-              onPressed: (){}, 
+              onPressed: (){
+                Navigator.pushNamed(context, '/bookmark');
+              }, 
               icon: Icon(
                 Icons.bookmark,
                 size: scaleWidth(24, context),

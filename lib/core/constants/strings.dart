@@ -1,10 +1,10 @@
-const hello = 'Hello,';
-const userName = 'Krishna SN';
-
-const search = 'Search for brand';
-
-const newArrival ='New Arrival';
-const seeAll= 'See All';
-
-const buyNow= 'Buy Now';
-const details= 'Details';
+const story = "Once upon a time, in a quaint little village nestled between rolling green hills, there lived a young girl named Eliza. She was known far and wide for her fiery red hair, which seemed to blaze like the setting sun, and her insatiable curiosity. Eliza's insatiable desire to explore the world beyond her village was like a burning fire inside her.\n\n"
+  "Every morning, she would wake up early and sneak out of her cottage before her parents were even awake. She had a small, leather-bound journal that she carried with her wherever she went. It was filled with drawings and notes about the things she had discovered in the woods surrounding her home, like the colorful mushrooms that grew near the creek and the peculiar animal tracks she often found.\n\n"
+  "One crisp autumn morning, as the leaves were turning shades of gold and red, Eliza decided to venture deeper into the forest than she had ever been before. Her heart pounded with excitement as she followed a narrow, winding path through the dense woods, her trusty journal tucked under her arm. The leaves crunched beneath her boots, and the soft whisper of the wind in the trees filled her ears.\n\n"
+  "After what felt like hours of walking, Eliza stumbled upon a clearing bathed in dappled sunlight. In the center of the clearing, there stood an ancient, gnarled oak tree, its branches reaching toward the heavens like outstretched arms. Under the tree, she noticed something unusual: a small, intricately carved wooden box.\n\n"
+  "Eliza's curiosity got the best of her, and she carefully opened the box. Inside, she found a shimmering, silver key. It was unlike any key she had ever seen before, with intricate engravings that seemed to tell a story of their own. There was a message etched onto the inside of the lid: \"Seek the door to another world.\"\n\n"
+  "Her heart raced with anticipation. Could this key unlock a secret door to a hidden realm, just like the stories her grandmother used to tell her? Without a moment's hesitation, she decided to follow the engravings' instructions. She explored the forest, using the key as a sort of compass, until she came upon an enormous, ancient oak door covered in moss and ivy.\n\n"
+  "With trembling hands, Eliza inserted the key into the lock and turned it. The door creaked open, revealing a passage that led to a world unlike any she had ever seen. The air was filled with the sweet scent of blooming flowers, and the landscape was awash with colors she couldn't even name. Birds with feathers of all hues of the rainbow soared through the sky, and the trees bore fruits that seemed to glow.\n\n"
+  "Eliza stepped through the door, her heart swelling with wonder and awe. She knew that her life would never be the same again. The world beyond the door was filled with adventure, mystery, and the promise of new discoveries. With her trusty journal in hand, she embarked on a journey to explore this enchanting realm and document her findings.\n\n"
+  "As she ventured deeper into this magical world, Eliza realized that curiosity had led her to the greatest adventure of all, a world where the boundaries of imagination and reality blurred. Her fiery red hair seemed to burn even brighter in this new world, and her insatiable curiosity would lead her on countless adventures, each more wondrous than the last.\n\n"
+  "And so, the young girl who had once been known as Eliza of the quaint village became a legendary explorer of the unknown, known throughout the realm as \"Eliza the Curious,\" a name that echoed through the ages, inspiring countless others to seek the door to another world and embrace the boundless wonder that lay beyond.";
